@@ -1,0 +1,35 @@
+# Exercise 1 pseudocode
+
+# input
+get number1
+get number2
+
+# process
+product = number1 * number2
+
+# output
+display product
+
+
+# Exercise 2 pseudocode
+
+# input
+get kilometers
+
+# process - 1 mile = 0.62 kilometers
+miles = kilometers * 0.62
+
+# output
+display miles
+
+
+# Exercise 3 pseudocode
+
+# input
+get miles
+
+# process - 1 mile = 0.62 kilometers
+kilometers = miles / 0.62
+
+# output
+display kilometers
